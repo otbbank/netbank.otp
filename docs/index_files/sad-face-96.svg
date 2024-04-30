@@ -1,0 +1,14 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M51 84C69.2254 84 84 69.2254 84 51C84 32.7746 69.2254 18 51 18C32.7746 18 18 32.7746 18 51C18 69.2254 32.7746 84 51 84Z" fill="currentColor"/>
+<path d="M39 55.4307L31 59.4307" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M54 66L53.1215 65.2679C50.1547 62.7956 45.8453 62.7956 42.8785 65.2679L42 66" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.5" d="M59.0005 44.9995L59.0005 45.9995C59.0005 48.7609 61.2391 50.9995 64.0005 50.9995L65.0005 50.9995" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.5" d="M37 45L37 46C37 48.7614 34.7614 51 32 51L31 51" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.5" d="M50 70C48.6667 70 47.3333 70 46 70" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57 55.4307L65 59.4307" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M81 48C81 66.2254 66.2254 81 48 81C29.7746 81 15 66.2254 15 48C15 29.7746 29.7746 15 48 15C66.2254 15 81 29.7746 81 48Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.3" d="M48 10C42.8651 10 37.9681 11.0185 33.5 12.8644M10 48C10 35.6578 15.8841 24.6899 25 17.7485" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.5" d="M90 68L87.7071 70.2929C87.0771 70.9229 87.5233 72 88.4142 72H90.5858C91.4767 72 91.9229 73.0771 91.2929 73.7071L89 76" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path opacity="0.5" d="M81.2857 9L76.6393 13.8048C76.0256 14.4395 76.4753 15.5 77.3581 15.5H83.6419C84.5247 15.5 84.9744 16.5605 84.3607 17.1952L79.7143 22" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<rect opacity="0.5" x="10" y="70" width="4" height="4" rx="2" stroke="currentColor" stroke-width="2"/>
+</svg>
